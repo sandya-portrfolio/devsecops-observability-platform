@@ -16,6 +16,7 @@ CI/CD & Automation:
 - Kubernetes (EKS/GKE)
 - Terraform
 - Git
+- GitLeaks
 
 SAST / Security Scanning:
 - SonarQube
