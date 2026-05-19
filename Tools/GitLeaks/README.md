@@ -157,9 +157,6 @@ Organize your GitHub repository with the following folder and file structure:
 
 ## 6. Summary
 
-By structuring your GitHub project with the above organization, scripts, and documentation, you convert the practical video demonstration into a reusable, maintainable, and industry-grade secret management and zero trust implementation project.
-
-This approach helps:
 
 - Detect leaked secrets early using GitLeaks.
 - Securely manage secrets using HashiCorp Vault.
