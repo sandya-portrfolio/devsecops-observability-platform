@@ -1,4 +1,4 @@
-## Project Summary
+## Project Summary --Understanding internal behaviour using data
 
 Worked on implementing monitoring and observability solutions for banking and microservices-based applications to improve application performance, availability, and production issue troubleshooting. Integrated OpenTelemetry with monitoring tools to track real-time transactions, analyze failures, and identify root causes using logs, metrics, and traces. Supported distributed applications running on Kubernetes and ensured smooth communication between backend services such as authentication, payment, core banking, and notification systems.
 
